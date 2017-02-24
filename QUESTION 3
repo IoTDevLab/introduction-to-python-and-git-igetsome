@@ -1,0 +1,10 @@
+
+## Template
+#!/usr/bin/env python3
+
+# Name: <Samuel Addae Forson>
+# Index number: <PS/ITC/14/0040>
+
+decimal_input = int(input("Input a value"))
+
+print('{0:b}'.format(decimal_input))                  
