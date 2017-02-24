@@ -1,0 +1,13 @@
+## Template
+##python
+#!/usr/bin/env pyhon3
+
+# Name:<Samuel Addae Forson>
+# Index number:<PS/ITC/14/0040>
+
+singleline = ""
+for a in range(1000,7000):
+    if (a % 7 ==0) and (a % 5 !=0):
+        singleline +=str(a)+","
+
+print (singleline)        
