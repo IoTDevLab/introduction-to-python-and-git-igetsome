@@ -1,0 +1,13 @@
+## Template
+##python
+#!/usr/bin/env pyhon3
+
+# Name:<Samuel Addae Forson>
+# Index number:<PS/ITC/14/0040>
+
+sum = 0
+
+for a in range (2000):
+        if (x % 3==0) or (x % 5==0):
+            sum += a
+print(sum)        
